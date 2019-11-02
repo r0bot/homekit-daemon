@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#IntellyJ Ides
+.idea
+
+#The folder that the acessories store their data is not needed
+.db
